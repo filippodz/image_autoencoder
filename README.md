@@ -75,9 +75,12 @@ $dataset
 
 For training just run the train.py script, the evolution of the train losses will show up in console and at the end into the train_losses.png plot.
 
+```shell
+python3 train.py
+```
+
 For evaluating the capabilities of the model run the gen_reconstruction.py script and see the results in the reconstruction.jpg image.
 
 ```shell
-python3 train.py
 python3 gen_reconstruction.py 
 ```
