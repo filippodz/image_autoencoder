@@ -7,6 +7,9 @@ Train an autoencoder able to encode and decode images
 3. [Data preparing](#data-preparing)
 4. [Train and Evaluate](#train-and-evaluate)
 
+Example results of model encoding and decoding:
+![reconstruction.jpg at main · filippodz/image_autoencoder (github.com)](https://github.com/filippodz/image_autoencoder/blob/main/reconstruction.jpg)
+
 ## Project Structure
 
 ```
